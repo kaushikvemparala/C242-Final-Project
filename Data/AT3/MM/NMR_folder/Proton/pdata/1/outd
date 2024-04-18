@@ -1,0 +1,16 @@
+##TITLE= Parameter file, TOPSPIN		Version 3.2
+##JCAMPDX= 5.0
+##DATATYPE= Parameter Values
+##NPOINTS= 3	$$ modification sequence number
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= chemist
+$$ 2016-01-18 19:38:32.131 +0000  chemist@lagavulin
+$$ f:\data\chemist\nmr\/Z85754/10/pdata/1/outd
+$$ process C:\Bruker\TopSpin3.2\prog\au\bin\user\janus-1h-proc.exe
+##$CURPLOT= <b18>
+##$CURPRIN= <$PDF reDirect v2>
+##$DFORMAT= <normdp>
+##$LAYOUT= <+/janus-proton.xwp>
+##$LFORMAT= <normlp>
+##$PFORMAT= <normpl>
+##END=

@@ -1,0 +1,234 @@
+/home/ah809/PyDP4/PyDP4.py -s chloroform -m m -B 6-311g(d) -d g -F mPW1PW91 P_ng_correct1.sdf P_ng_2.sdf P_ng_3.sdf P_ng_4.sdf *5.sdf *6.sdf *7.sdf *8.sdf NMR_NG
+/home/ah809/PyDP4/PyDP4.py -s chloroform -m m -B 6-311g(d) -d g -F mPW1PW91 P_ng_correct1.sdf P_ng_2.sdf P_ng_3.sdf P_ng_4.sdf NMR_NG
+/home/ah809/PyDP4/PyDP4.py -s chloroform -m m -B 6-311g(d) -F mPW1PW91 P_ng_correct1.sdf P_ng_2.sdf P_ng_3.sdf P_ng_4.sdf NMR_NG
+/home/ah809/PyDP4/PyDP4.py -s chloroform -m m -B 6-311g(d) -F mPW1PW91 P_ng_correct1.sdf P_ng_2.sdf P_ng_3.sdf P_ng_4.sdf NMR_NG
+/home/ah809/PyDP4/PyDP4.py -s chloroform -m m -B 6-311g(d) -F mPW1PW91 P_ng_correct1.sdf P_ng_2.sdf P_ng_3.sdf P_ng_4.sdf NMR_NG
+/home/ah809/PyDP4_master/PyDP4.py -s chloroform -m m --AssumeDFTDone P_ng_correct1.sdf P_ng_2.sdf P_ng_3.sdf P_ng_4.sdf NMR.txt
+/home/ah809/PyDP4_master/PyDP4.py -s chloroform -m m --AssumeDFTDone P_ng_correct1.sdf P_ng_2.sdf P_ng_3.sdf P_ng_4.sdf NMR
+/home/ah809/PyDP4_master/PyDP4.py -s chloroform -m m --AssumeDFTDone P_ng_correct1.sdf P_ng_2.sdf P_ng_3.sdf P_ng_4.sdf NMR
+/home/ah809/PyDP4_master/PyDP4.py -s chloroform -m m --AssumeDFTDone P_ng_correct1.sdf P_ng_2.sdf P_ng_3.sdf P_ng_4.sdf NMR
+/home/ah809/PyDP4_master/PyDP4.py -s chloroform -m m --AssumeDFTDone P_ng_correct1.sdf P_ng_2.sdf P_ng_3.sdf P_ng_4.sdf NMR
+/home/ke291/PyDP4/PyDP4.py -s chloroform -m m -d d --TimeLimit 12 --DFTOpt --OptCycles 25 --nProc 2 -B 6-311g(d) -F mPW1PW91 P_ng_correct1 P_ng_2 P_ng_3 P_ng_4 IP1NMR
+/home/ke291/PyDP4/PyDP4.py -s chloroform -m m -d z --TimeLimit 48 --DFTOpt --OptCycles 50 --nProc 2 -B 6-311g(d) -F mPW1PW91 P_ng_correct1 P_ng_2 P_ng_3 P_ng_4 IP1NMR
+/home/ke291/PyDP4/PyDP4.py -s chloroform -m m -d z --TimeLimit 48 --DFTOpt --OptCycles 50 --nProc 2 -B 6-311g(d) -F mPW1PW91 P_ng_correct1 P_ng_2 P_ng_3 P_ng_4 IP1NMR
+/home/ah809/PyDP4_master/PyDP4.py -s chloroform -m m -B 6-311g(d) -F mPW1PW91 --AssumeDFTDone IP1_ IP1NMR
+/home/ah809/PyDP4_master/PyDP4.py -s chloroform -m m -B 6-311g(d) -F mPW1PW91 --AssumeDFTDone IP1_ IP1NMR
+/home/ah809/PyDP4_master/PyDP4.py -s chloroform -m m -B 6-311g(d) -F mPW1PW91 --AssumeDFTDone IP1_ IP1NMR
+/home/ah809/PyDP4_master/PyDP4.py -s chloroform -m m -B 6-311g(d) -F mPW1PW91 --AssumeDFTDone IP1_ IP1NMR
+/home/ah809/PyDP4_master/PyDP4.py -s chloroform -m m -B 6-311g(d) -F mPW1PW91 --AssumeDFTDone IP1_ IP1NMR
+/home/ah809/PyDP4_master/PyDP4.py -s chloroform -S m/home/ah809/StatsModel/stats1goptg -m m -B 6-311g(d) -F mPW1PW91 --AssumeDFTDone IP1_ IP1NMR
+/home/ah809/PyDP4_master/PyDP4.py -s chloroform -m m -B 6-311g(d) -F mPW1PW91 --AssumeDFTDone IP1_ IP1NMR
+/home/ah809/PyDP4_master/PyDP4.py -s chloroform -S m/home/ah809/StatsModel/stats2goptg -m m -B 6-311g(d) -F mPW1PW91 --AssumeDFTDone IP1_ IP1NMR
+/home/ah809/PyDP4_master/PyDP4.py -s chloroform -S m/home/ah809/StatsModel/stats2goptg -m m -B 6-311g(d) -F mPW1PW91 --AssumeDFTDone IP1_ IP1NMR
+/home/ah809/PyDP4_master/PyDP4.py -s chloroform -S m/home/ah809/StatsModel/stats3goptg -m m -B 6-311g(d) -F mPW1PW91 --AssumeDFTDone IP1_ IP1NMR
+/home/ah809/PyDP4_master/PyDP4.py -s chloroform -S m/home/ah809/StatsModel/stats3goptg -m m -B 6-311g(d) -F mPW1PW91 --AssumeDFTDone IP1_ IP1NMR
+/home/ah809/PyDP4_master/PyDP4.py -s chloroform -S m/home/ah809/StatsModel/stats3goptg -m m -B 6-311g(d) -F mPW1PW91 --AssumeDFTDone IP1_ IP1NMR
+/home/ah809/PyDP4_master/PyDP4.py -s chloroform -m m -B 6-311g(d) -F mPW1PW91 --AssumeDFTDone IP1_ IP1NMR
+/home/ah809/PyDP4_master/PyDP4.py -s chloroform -m m -B 6-311g(d) -F mPW1PW91 --AssumeDFTDone IP1_ IP1NMR
+/home/ah809/PyDP4_master/PyDP4.py -s chloroform -m m -B 6-311g(d) -F mPW1PW91 --AssumeDFTDone IP1_ IP1NMR
+/home/ah809/PyDP4_master/PyDP4.py -s chloroform -S m/home/ah809/StatsModel/stats1goptg -m m -B 6-311g(d) -F mPW1PW91 --AssumeDFTDone IP1_ IP1NMR
+/home/ah809/PyDP4_master/PyDP4.py -s chloroform -S m/home/ah809/StatsModel/stats2goptg -m m -B 6-311g(d) -F mPW1PW91 --AssumeDFTDone IP1_ IP1NMR
+/home/ah809/PyDP4_master/PyDP4.py -s chloroform -S m/home/ah809/StatsModel/stats2goptg -m m -B 6-311g(d) -F mPW1PW91 --AssumeDFTDone IP1_ IP1NMR
+/home/ah809/PyDP4_master/PyDP4.py -s chloroform -S m/home/ah809/StatsModel/3g_cross_validation_opt/IPmodelg -m m -B 6-311g(d) -F mPW1PW91 --AssumeDFTDone IP1_ IP1NMR
+/home/ah809/PyDP4_master/PyDP4.py -s chloroform -S m/home/ah809/StatsModel/opt_stats_models/stats1goptg -m m -B 6-311g(d) -F mPW1PW91 --AssumeDFTDone IP1_ IP1NMR
+/home/ah809/PyDP4_master/PyDP4.py -s chloroform -S m/home/ah809/StatsModel/opt_stats_models/stats2goptg -m m -B 6-311g(d) -F mPW1PW91 --AssumeDFTDone IP1_ IP1NMR
+/home/ah809/PyDP4_master/PyDP4.py -s chloroform -S m/home/ah809/StatsModel/opt_stats_models/stats3goptg -m m -B 6-311g(d) -F mPW1PW91 --AssumeDFTDone IP1_ IP1NMR
+/home/ah809/PyDP4_master/PyDP4.py -s chloroform -E /scratch/ah809/Completed_Calculations_M06-2X_Def2TZVP/IP1/ -m m -B 6-311g(d) -F mPW1PW91 --AssumeDFTDone IP1_ IP1NMR
+/home/ah809/PyDP4_master/PyDP4.py -s chloroform -S m/home/ah809/StatsModel/3g_cross_validation_opt/IPmodelg -m m -B 6-311g(d) -F mPW1PW91 --AssumeDFTDone IP1_.sdf IP1NMR
+/home/ah809/pydp4/PyDP4.py -s chloroform -w gmons -OutputFolder /scratch/ah809/Paper_Results/pairwise/Opt/external -S /none --AssumeDFTDone IP1_.sdf IP1NMR
+/home/ah809/pydp4/PyDP4.py -s chloroform -w gmons -OutputFolder /scratch/ah809/Paper_Results/pairwise/Opt/external -S /none --AssumeDFTDone IP1_.sdf IP1NMR
+/home/ah809/pydp4/PyDP4.py -s chloroform -w gmones -OutputFolder /scratch/ah809/Paper_Results/pairwise/Opt_E/external -S /none --AssumeDFTDone IP1_.sdf IP1NMR
+/home/ah809/pydp4/PyDP4.py -s chloroform -w gmons -OutputFolder /scratch/ah809/Paper_Results/auto/Opt/external -S /none --AssumeDFTDone IP1_.sdf NMR_folder
+/home/ah809/pydp4/PyDP4.py -s chloroform -w gmons -OutputFolder /scratch/ah809/Paper_Results/auto/Opt/external -S /none --AssumeDFTDone IP1_.sdf NMR_folder
+/home/ah809/pydp4/PyDP4.py -s chloroform -w gmons -OutputFolder /scratch/ah809/Paper_Results/pairwise/Opt/1g -S m/scratch/ah809/Paper_Results/Stats/pairwiseOpt1gg --AssumeDFTDone IP1_.sdf IP1NMR
+/home/ah809/pydp4/PyDP4.py -s chloroform -w gmons -OutputFolder /scratch/ah809/Paper_Results/pairwise/Opt/2g -S m/scratch/ah809/Paper_Results/Stats/pairwiseOpt2gg --AssumeDFTDone IP1_.sdf IP1NMR
+/home/ah809/pydp4/PyDP4.py -s chloroform -w gmons -OutputFolder /scratch/ah809/Paper_Results/pairwise/Opt/3g -S m/scratch/ah809/Paper_Results/Stats/pairwiseOpt3gg --AssumeDFTDone IP1_.sdf IP1NMR
+/home/ah809/pydp4/PyDP4.py -s chloroform -w gnoms -OutputFolder /scratch/ah809/Paper_Results/pairwise/Opt/crossvalidation -S mm/scratch/ah809/Paper_Results/Stats/pairwiseOptcrossval/IPmodelg --AssumeDFTDone IP1_ IP1NMR
+/home/ah809/pydp4/PyDP4.py -s chloroform -w gnoms -OutputFolder /scratch/ah809/Paper_Results/pairwise/Opt/crossvalidation -S mm/scratch/ah809/Paper_Results/Stats/pairwiseOptcrossval/IPmodelg --AssumeDFTDone IP1_ IP1NMR
+/home/ah809/pydp4/PyDP4.py -s chloroform -w gnoms -OutputFolder /scratch/ah809/Paper_Results/pairwise/Opt/crossvalidation -S mm/scratch/ah809/Paper_Results/Stats/pairwiseOptcrossval/IPmodelg --AssumeDFTDone IP1_ IP1NMR
+/home/ah809/pydp4/PyDP4.py -s chloroform -w gnoms -OutputFolder /scratch/ah809/Paper_Results/pairwise/Opt/crossvalidation -S m/scratch/ah809/Paper_Results/Stats/pairwiseOptcrossval/IPmodelg --AssumeDFTDone IP1_.sdf IP1NMR
+/home/ah809/pydp4/PyDP4.py -s chloroform -w gnoms -OutputFolder /scratch/ah809/Paper_Results/pairwise/Opt/crossvalidation -S m/scratch/ah809/Paper_Results/Stats/pairwiseOptcrossval/IPmodelg --AssumeDFTDone IP1_.sdf IP1NMR
+/home/ah809/pydp4/PyDP4.py -s chloroform -w gmons -OutputFolder /scratch/ah809/Paper_Results/auto/Opt/1g -S m/scratch/ah809/Paper_Results/Stats/autoOpt1gg --AssumeDFTDone IP1_.sdf NMR_folder
+/home/ah809/pydp4/PyDP4.py -s chloroform -w gmons -OutputFolder /scratch/ah809/Paper_Results/auto/Opt/1g -S m/scratch/ah809/Paper_Results/Stats/autoOpt1gg --AssumeDFTDone IP1_.sdf NMR_folder
+/home/ah809/pydp4/PyDP4.py -s chloroform -w gmons -OutputFolder /scratch/ah809/Paper_Results/pairwise/Opt/external -S /none --AssumeDFTDone IP1_.sdf IP1NMR
+/home/ah809/pydp4/PyDP4.py -s chloroform -w gmons -OutputFolder /scratch/ah809/Paper_Results/auto/Opt/2g -S m/scratch/ah809/Paper_Results/Stats/autoOpt2gg --AssumeDFTDone IP1_.sdf NMR_folder
+/home/ah809/pydp4/PyDP4.py -s chloroform -w gmons -OutputFolder /scratch/ah809/Paper_Results/pairwise/Opt/external -S /none --AssumeDFTDone IP1_.sdf IP1NMR
+/home/ah809/pydp4/PyDP4.py -s chloroform -w gmons -OutputFolder /scratch/ah809/Paper_Results/auto/Opt/3g -S m/scratch/ah809/Paper_Results/Stats/autoOpt3gg --AssumeDFTDone IP1_.sdf NMR_folder
+/home/ah809/pydp4/PyDP4.py -s chloroform -w gnoms -OutputFolder /scratch/ah809/Paper_Results/auto/Opt/crossvalidation -S m/scratch/ah809/Paper_Results/Stats/autoOptcrossval/IPmodelg --AssumeDFTDone IP1_.sdf NMR_folder
+/home/ah809/pydp4/PyDP4.py -s chloroform -w gmons -OutputFolder /scratch/ah809/Paper_Results/pairwise/Opt/1g -S m/scratch/ah809/Paper_Results/Stats/pairwiseOpt1gg --AssumeDFTDone IP1_.sdf IP1NMR
+/home/ah809/pydp4/PyDP4.py -s chloroform -w gmons -OutputFolder /scratch/ah809/Paper_Results/pairwise/Opt/2g -S m/scratch/ah809/Paper_Results/Stats/pairwiseOpt2gg --AssumeDFTDone IP1_.sdf IP1NMR
+/home/ah809/pydp4/PyDP4.py -s chloroform -w gmons -OutputFolder /scratch/ah809/Paper_Results/pairwise/Opt/3g -S m/scratch/ah809/Paper_Results/Stats/pairwiseOpt3gg --AssumeDFTDone IP1_.sdf IP1NMR
+/home/ah809/pydp4/PyDP4.py -s chloroform -w gnoms -OutputFolder /scratch/ah809/Paper_Results/pairwise/Opt/crossvalidation -S m/scratch/ah809/Paper_Results/Stats/pairwiseOptcrossval/IPmodelg --AssumeDFTDone IP1_.sdf IP1NMR
+/home/ah809/pydp4/PyDP4.py -s chloroform -w gmons -OutputFolder /scratch/ah809/Paper_Results2/auto/Opt/1g -S m/scratch/ah809/Paper_Results2/Stats/pairwiseOpt1gg --AssumeDFTDone IP1_.sdf NMR_folder
+/home/ah809/pydp4/PyDP4.py -s chloroform -w gmons -OutputFolder /scratch/ah809/Paper_Results2/auto/Opt/2g -S m/scratch/ah809/Paper_Results2/Stats/pairwiseOpt2gg --AssumeDFTDone IP1_.sdf NMR_folder
+/home/ah809/pydp4/PyDP4.py -s chloroform -w gmons -OutputFolder /scratch/ah809/Paper_Results2/auto/Opt/3g -S m/scratch/ah809/Paper_Results2/Stats/pairwiseOpt3gg --AssumeDFTDone IP1_.sdf NMR_folder
+/home/ah809/pydp4/PyDP4.py -s chloroform -w gnoms -OutputFolder /scratch/ah809/Paper_Results2/auto/Opt/crossvalidation -S m/scratch/ah809/Paper_Results2/Stats/pairwiseOptcrossval/IPmodelg --AssumeDFTDone IP1_.sdf NMR_folder
+/home/ah809/pydp4/PyDP4.py -s chloroform -w gmons -OutputFolder /scratch/ah809/Paper_Results/pairwise/Opt/external -S /none --AssumeDFTDone IP1_.sdf IP1NMR
+/home/ah809/pydp4/PyDP4.py -s chloroform -w gmons -OutputFolder /scratch/ah809/Paper_Results/auto/Opt/external -S /none --AssumeDFTDone IP1_.sdf NMR_folder
+/home/ah809/pydp4/PyDP4.py -s chloroform -w gmons -OutputFolder /scratch/ah809/Paper_Results/pairwise/Opt/1g -S m/scratch/ah809/Paper_Results/Stats/pairwiseOpt1gg --AssumeDFTDone IP1_.sdf IP1NMR
+/home/ah809/pydp4/PyDP4.py -s chloroform -w gmons -OutputFolder /scratch/ah809/Paper_Results/pairwise/Opt/2g -S m/scratch/ah809/Paper_Results/Stats/pairwiseOpt2gg --AssumeDFTDone IP1_.sdf IP1NMR
+/home/ah809/pydp4/PyDP4.py -s chloroform -w gmons -OutputFolder /scratch/ah809/Paper_Results/pairwise/Opt/3g -S m/scratch/ah809/Paper_Results/Stats/pairwiseOpt3gg --AssumeDFTDone IP1_.sdf IP1NMR
+/home/ah809/pydp4/PyDP4.py -s chloroform -w gnoms -OutputFolder /scratch/ah809/Paper_Results/pairwise/Opt/crossvalidation -S m/scratch/ah809/Paper_Results/Stats/pairwiseOptcrossval/IPmodelg --AssumeDFTDone IP1_.sdf IP1NMR
+/home/ah809/pydp4/PyDP4.py -s chloroform -w gmons -OutputFolder /scratch/ah809/Paper_Results/auto/Opt/1g -S m/scratch/ah809/Paper_Results/Stats/pairwiseOpt1gg --AssumeDFTDone IP1_.sdf NMR_folder
+/home/ah809/pydp4/PyDP4.py -s chloroform -w gmons -OutputFolder /scratch/ah809/Paper_Results/auto/Opt/2g -S m/scratch/ah809/Paper_Results/Stats/pairwiseOpt2gg --AssumeDFTDone IP1_.sdf NMR_folder
+/home/ah809/pydp4/PyDP4.py -s chloroform -w gmons -OutputFolder /scratch/ah809/Paper_Results/auto/Opt/3g -S m/scratch/ah809/Paper_Results/Stats/pairwiseOpt3gg --AssumeDFTDone IP1_.sdf NMR_folder
+/home/ah809/pydp4/PyDP4.py -s chloroform -w gnoms -OutputFolder /scratch/ah809/Paper_Results/auto/Opt/crossvalidation -S m/scratch/ah809/Paper_Results/Stats/pairwiseOptcrossval/IPmodelg --AssumeDFTDone IP1_.sdf NMR_folder
+/home/ah809/pydp4/PyDP4.py -s chloroform -w gnoms -OutputFolder /scratch/ah809/Paper_Results/pairwise/Opt/crossvalidation -S m/scratch/ah809/Paper_Results/Stats/pairwiseOptcrossval/IPmodelg --AssumeDFTDone IP1_.sdf IP1NMR
+/home/ah809/pydp4/PyDP4.py -s chloroform -w gnoms -OutputFolder /scratch/ah809/Paper_Results/auto/Opt/crossvalidation -S m/scratch/ah809/Paper_Results/Stats/pairwiseOptcrossval/IPmodelg --AssumeDFTDone IP1_.sdf NMR_folder
+/home/ah809/pydp4/PyDP4.py -s chloroform -w gmons -OutputFolder /scratch/ah809/Paper_Results/pairwise/Opt/external -S /none --AssumeDFTDone IP1_.sdf IP1NMR
+/home/ah809/pydp4/PyDP4.py -s chloroform -w gmons -OutputFolder /scratch/ah809/Paper_Results/auto/Opt/external -S /none --AssumeDFTDone IP1_.sdf NMR_folder
+/home/ah809/pydp4/PyDP4.py -s chloroform -w gmons -OutputFolder /scratch/ah809/Paper_Results/pairwise/Opt/1g -S m/scratch/ah809/Paper_Results/Stats/pairwiseOpt1gg --AssumeDFTDone IP1_.sdf IP1NMR
+/home/ah809/pydp4/PyDP4.py -s chloroform -w gmons -OutputFolder /scratch/ah809/Paper_Results/pairwise/Opt/2g -S m/scratch/ah809/Paper_Results/Stats/pairwiseOpt2gg --AssumeDFTDone IP1_.sdf IP1NMR
+/home/ah809/pydp4/PyDP4.py -s chloroform -w gmons -OutputFolder /scratch/ah809/Paper_Results/pairwise/Opt/3g -S m/scratch/ah809/Paper_Results/Stats/pairwiseOpt3gg --AssumeDFTDone IP1_.sdf IP1NMR
+/home/ah809/pydp4/PyDP4.py -s chloroform -w gnoms -OutputFolder /scratch/ah809/Paper_Results/pairwise/Opt/crossvalidation -S m/scratch/ah809/Paper_Results/Stats/pairwiseOptcrossval/IPmodelg --AssumeDFTDone IP1_.sdf IP1NMR
+/home/ah809/pydp4/PyDP4.py -s chloroform -w gmons -OutputFolder /scratch/ah809/Paper_Results/auto/Opt/1g -S m/scratch/ah809/Paper_Results/Stats/pairwiseOpt1gg --AssumeDFTDone IP1_.sdf NMR_folder
+/home/ah809/pydp4/PyDP4.py -s chloroform -w gmons -OutputFolder /scratch/ah809/Paper_Results/auto/Opt/2g -S m/scratch/ah809/Paper_Results/Stats/pairwiseOpt2gg --AssumeDFTDone IP1_.sdf NMR_folder
+/home/ah809/pydp4/PyDP4.py -s chloroform -w gmons -OutputFolder /scratch/ah809/Paper_Results/auto/Opt/3g -S m/scratch/ah809/Paper_Results/Stats/pairwiseOpt3gg --AssumeDFTDone IP1_.sdf NMR_folder
+/home/ah809/pydp4/PyDP4.py -s chloroform -w gnoms -OutputFolder /scratch/ah809/Paper_Results/auto/Opt/crossvalidation -S m/scratch/ah809/Paper_Results/Stats/pairwiseOptcrossval/IPmodelg --AssumeDFTDone IP1_.sdf NMR_folder
+/home/ah809/pydp4/PyDP4.py -s chloroform -w gmons -OutputFolder /scratch/ah809/Paper_Results/pairwise/Opt/external -S /none --AssumeDFTDone IP1_.sdf IP1NMR
+/home/ah809/pydp4/PyDP4.py -s chloroform -w gmons -OutputFolder /scratch/ah809/Paper_Results/auto/Opt/external -S /none --AssumeDFTDone IP1_.sdf NMR_folder
+/home/ah809/pydp4/PyDP4.py -s chloroform -w gmons -OutputFolder /scratch/ah809/Paper_Results/pairwise/Opt/1g -S m/scratch/ah809/Paper_Results/Stats/pairwiseOpt1gg --AssumeDFTDone IP1_.sdf IP1NMR
+/home/ah809/pydp4/PyDP4.py -s chloroform -w gmons -OutputFolder /scratch/ah809/Paper_Results/pairwise/Opt/2g -S m/scratch/ah809/Paper_Results/Stats/pairwiseOpt2gg --AssumeDFTDone IP1_.sdf IP1NMR
+/home/ah809/pydp4/PyDP4.py -s chloroform -w gmons -OutputFolder /scratch/ah809/Paper_Results/pairwise/Opt/3g -S m/scratch/ah809/Paper_Results/Stats/pairwiseOpt3gg --AssumeDFTDone IP1_.sdf IP1NMR
+/home/ah809/pydp4/PyDP4.py -s chloroform -w gnoms -OutputFolder /scratch/ah809/Paper_Results/pairwise/Opt/crossvalidation -S m/scratch/ah809/Paper_Results/Stats/pairwiseOptcrossval/IPmodelg --AssumeDFTDone IP1_.sdf IP1NMR
+/home/ah809/pydp4/PyDP4.py -s chloroform -w gmons -OutputFolder /scratch/ah809/Paper_Results/auto/Opt/1g -S m/scratch/ah809/Paper_Results/Stats/pairwiseOpt1gg --AssumeDFTDone IP1_.sdf NMR_folder
+/home/ah809/pydp4/PyDP4.py -s chloroform -w gmons -OutputFolder /scratch/ah809/Paper_Results/auto/Opt/2g -S m/scratch/ah809/Paper_Results/Stats/pairwiseOpt2gg --AssumeDFTDone IP1_.sdf NMR_folder
+/home/ah809/pydp4/PyDP4.py -s chloroform -w gmons -OutputFolder /scratch/ah809/Paper_Results/auto/Opt/3g -S m/scratch/ah809/Paper_Results/Stats/pairwiseOpt3gg --AssumeDFTDone IP1_.sdf NMR_folder
+/home/ah809/pydp4/PyDP4.py -s chloroform -w gnoms -OutputFolder /scratch/ah809/Paper_Results/auto/Opt/crossvalidation -S m/scratch/ah809/Paper_Results/Stats/pairwiseOptcrossval/IPmodelg --AssumeDFTDone IP1_.sdf NMR_folder
+/home/ah809/pydp4/PyDP4.py -s chloroform -w gmons -OutputFolder /scratch/ah809/auto_stats_results/pairwise/Opt/external -S /none --AssumeDFTDone IP1_.sdf IP1NMR
+/home/ah809/pydp4/PyDP4.py -s chloroform -w gmons -OutputFolder /scratch/ah809/auto_stats_results/auto/Opt/external -S /none --AssumeDFTDone IP1_.sdf NMR_folder
+/home/ah809/pydp4/PyDP4.py -s chloroform -w gmons -OutputFolder /scratch/ah809/auto_stats_results/pairwise/Opt/1g -S m/scratch/ah809/auto_stats_results/Stats/pairwiseOpt1gg --AssumeDFTDone IP1_.sdf IP1NMR
+/home/ah809/pydp4/PyDP4.py -s chloroform -w gmons -OutputFolder /scratch/ah809/auto_stats_results/pairwise/Opt/2g -S m/scratch/ah809/auto_stats_results/Stats/pairwiseOpt2gg --AssumeDFTDone IP1_.sdf IP1NMR
+/home/ah809/pydp4/PyDP4.py -s chloroform -w gmons -OutputFolder /scratch/ah809/auto_stats_results/pairwise/Opt/3g -S m/scratch/ah809/auto_stats_results/Stats/pairwiseOpt3gg --AssumeDFTDone IP1_.sdf IP1NMR
+/home/ah809/pydp4/PyDP4.py -s chloroform -w gnoms -OutputFolder /scratch/ah809/auto_stats_results/pairwise/Opt/crossvalidation -S m/scratch/ah809/auto_stats_results/Stats/pairwiseOptcrossval/IPmodelg --AssumeDFTDone IP1_.sdf IP1NMR
+/home/ah809/pydp4/PyDP4.py -s chloroform -w gmons -OutputFolder /scratch/ah809/auto_stats_results/auto/Opt/1g -S m/scratch/ah809/auto_stats_results/Stats/pairwiseOpt1gg --AssumeDFTDone IP1_.sdf NMR_folder
+/home/ah809/pydp4/PyDP4.py -s chloroform -w gmons -OutputFolder /scratch/ah809/auto_stats_results/auto/Opt/2g -S m/scratch/ah809/auto_stats_results/Stats/pairwiseOpt2gg --AssumeDFTDone IP1_.sdf NMR_folder
+/home/ah809/pydp4/PyDP4.py -s chloroform -w gmons -OutputFolder /scratch/ah809/auto_stats_results/auto/Opt/3g -S m/scratch/ah809/auto_stats_results/Stats/pairwiseOpt3gg --AssumeDFTDone IP1_.sdf NMR_folder
+/home/ah809/pydp4/PyDP4.py -s chloroform -w gnoms -OutputFolder /scratch/ah809/auto_stats_results/auto/Opt/crossvalidation -S m/scratch/ah809/auto_stats_results/Stats/pairwiseOptcrossval/IPmodelg --AssumeDFTDone IP1_.sdf NMR_folder
+/home/ah809/pydp4/PyDP4.py -s chloroform -w gmons -OutputFolder /scratch/ah809/Updated_Integrals/pairwise/Opt/external -S /none --AssumeDFTDone IP1_.sdf IP1NMR
+/home/ah809/pydp4/PyDP4.py -s chloroform -w gmons -OutputFolder /scratch/ah809/Updated_Integrals/auto/Opt/external -S /none --AssumeDFTDone IP1_.sdf NMR_folder
+/home/ah809/pydp4/PyDP4.py -s chloroform -w gmns -OutputFolder /scratch/ah809/Results_Separate_Stats/pairwise/Opt/external -S /none --AssumeDFTDone IP1_.sdf IP1NMR
+/home/ah809/pydp4/PyDP4.py -s chloroform -w gmns -OutputFolder /scratch/ah809/Results_Separate_Stats/pairwise/Opt_E/external -S /none --AssumeDFTDone IP1_.sdf IP1NMR
+/home/ah809/pydp4/PyDP4.py -s chloroform -w gmons -OutputFolder /scratch/ah809/Results_Separate_Stats/auto/Opt/external -S /none --AssumeDFTDone IP1_.sdf NMR_folder
+/home/ah809/pydp4/PyDP4.py -s chloroform -w gmones -OutputFolder /scratch/ah809/Results_Separate_Stats/auto/Opt_E/external -S /none --AssumeDFTDone IP1_.sdf NMR_folder
+/home/ah809/pydp4/PyDP4.py -s chloroform -w gmns -OutputFolder /scratch/ah809/Results_Separate_Stats/pairwise/Opt/internal -S m/scratch/ah809/Results_Separate_Stats/Stats/pairwiseOpt --AssumeDFTDone IP1_.sdf IP1NMR
+/home/ah809/pydp4/PyDP4.py -s chloroform -w gmns -OutputFolder /scratch/ah809/Results_Separate_Stats/pairwise/Opt_E/internal -S m/scratch/ah809/Results_Separate_Stats/Stats/pairwiseOpt_E --AssumeDFTDone IP1_.sdf IP1NMR
+/home/ah809/pydp4/PyDP4.py -s chloroform -w gmons -OutputFolder /scratch/ah809/Results_Separate_Stats/auto/Opt/internal -S m/scratch/ah809/Results_Separate_Stats/Stats/pairwiseOpt --AssumeDFTDone IP1_.sdf NMR_folder
+/home/ah809/pydp4/PyDP4.py -s chloroform -w gmones -OutputFolder /scratch/ah809/Results_Separate_Stats/auto/Opt_E/internal -S m/scratch/ah809/Results_Separate_Stats/Stats/pairwiseOpt_E --AssumeDFTDone IP1_.sdf NMR_folder
+/home/ah809/pydp4/PyDP4.py -s chloroform -w gmons -OutputFolder /scratch/ah809/Updated_Integrals/pairwise/Opt/1g -S m/scratch/ah809/Updated_Integrals/Stats/pairwiseOpt1gg --AssumeDFTDone IP1_.sdf IP1NMR
+/home/ah809/pydp4/PyDP4.py -s chloroform -w gmons -OutputFolder /scratch/ah809/Updated_Integrals/pairwise/Opt/2g -S m/scratch/ah809/Updated_Integrals/Stats/pairwiseOpt2gg --AssumeDFTDone IP1_.sdf IP1NMR
+/home/ah809/pydp4/PyDP4.py -s chloroform -w gmons -OutputFolder /scratch/ah809/Updated_Integrals/pairwise/Opt/3g -S m/scratch/ah809/Updated_Integrals/Stats/pairwiseOpt3gg --AssumeDFTDone IP1_.sdf IP1NMR
+/home/ah809/pydp4/PyDP4.py -s chloroform -w gnoms -OutputFolder /scratch/ah809/Updated_Integrals/pairwise/Opt/crossvalidation -S m/scratch/ah809/Updated_Integrals/Stats/pairwiseOptcrossval/IPmodelg --AssumeDFTDone IP1_.sdf IP1NMR
+/home/ah809/pydp4/PyDP4.py -s chloroform -w gmons -OutputFolder /scratch/ah809/Updated_Integrals/auto/Opt/1g -S m/scratch/ah809/Updated_Integrals/Stats/pairwiseOpt1gg --AssumeDFTDone IP1_.sdf NMR_folder
+/home/ah809/pydp4/PyDP4.py -s chloroform -w gmons -OutputFolder /scratch/ah809/Updated_Integrals/auto/Opt/2g -S m/scratch/ah809/Updated_Integrals/Stats/pairwiseOpt2gg --AssumeDFTDone IP1_.sdf NMR_folder
+/home/ah809/pydp4/PyDP4.py -s chloroform -w gmons -OutputFolder /scratch/ah809/Updated_Integrals/auto/Opt/3g -S m/scratch/ah809/Updated_Integrals/Stats/pairwiseOpt3gg --AssumeDFTDone IP1_.sdf NMR_folder
+/home/ah809/pydp4/PyDP4.py -s chloroform -w gnoms -OutputFolder /scratch/ah809/Updated_Integrals/auto/Opt/crossvalidation -S m/scratch/ah809/Updated_Integrals/Stats/pairwiseOptcrossval/IPmodelg --AssumeDFTDone IP1_.sdf NMR_folder
+/home/ah809/pydp4/PyDP4.py -s chloroform -w gmns -OutputFolder /scratch/ah809/Results_Separate_Stats/pairwise/Opt/internal -S m/scratch/ah809/Results_Separate_Stats/Stats/pairwiseOptg --AssumeDFTDone IP1_.sdf IP1NMR
+/home/ah809/pydp4/PyDP4.py -s chloroform -w gmns -OutputFolder /scratch/ah809/Results_Separate_Stats/pairwise/Opt/external -S /noneg --AssumeDFTDone IP1_.sdf IP1NMR
+/home/ah809/pydp4/PyDP4.py -s chloroform -w gmons -OutputFolder /scratch/ah809/Updated_Integrals/pairwise/Opt/external -S /none --AssumeDFTDone IP1_.sdf IP1NMR
+/home/ah809/pydp4/PyDP4.py -s chloroform -w gmns -OutputFolder /scratch/ah809/Results_Separate_Stats/pairwise/Opt_E/external -S /none --AssumeDFTDone IP1_.sdf IP1NMR
+/home/ah809/pydp4/PyDP4.py -s chloroform -w gmons -OutputFolder /scratch/ah809/Results_Separate_Stats/auto/Opt/external -S /none --AssumeDFTDone IP1_.sdf NMR_folder
+/home/ah809/pydp4/PyDP4.py -s chloroform -w gmons -OutputFolder /scratch/ah809/Updated_Integrals/auto/Opt/external -S /none --AssumeDFTDone IP1_.sdf NMR_folder
+/home/ah809/pydp4/PyDP4.py -s chloroform -w gmones -OutputFolder /scratch/ah809/Results_Separate_Stats/auto/Opt_E/external -S /none --AssumeDFTDone IP1_.sdf NMR_folder
+/home/ah809/pydp4/PyDP4.py -s chloroform -w gmons -OutputFolder /scratch/ah809/Updated_Integrals/pairwise/Opt/1g -S m/scratch/ah809/Updated_Integrals/Stats/pairwiseOpt1gg --AssumeDFTDone IP1_.sdf IP1NMR
+/home/ah809/pydp4/PyDP4.py -s chloroform -w gmons -OutputFolder /scratch/ah809/Updated_Integrals/pairwise/Opt/2g -S m/scratch/ah809/Updated_Integrals/Stats/pairwiseOpt2gg --AssumeDFTDone IP1_.sdf IP1NMR
+/home/ah809/pydp4/PyDP4.py -s chloroform -w gmons -OutputFolder /scratch/ah809/Updated_Integrals/pairwise/Opt/3g -S m/scratch/ah809/Updated_Integrals/Stats/pairwiseOpt3gg --AssumeDFTDone IP1_.sdf IP1NMR
+/home/ah809/pydp4/PyDP4.py -s chloroform -w gnoms -OutputFolder /scratch/ah809/Updated_Integrals/pairwise/Opt/crossvalidation -S m/scratch/ah809/Updated_Integrals/Stats/pairwiseOptcrossval/IPmodelg --AssumeDFTDone IP1_.sdf IP1NMR
+/home/ah809/pydp4/PyDP4.py -s chloroform -w gmons -OutputFolder /scratch/ah809/Updated_Integrals/auto/Opt/1g -S m/scratch/ah809/Updated_Integrals/Stats/pairwiseOpt1gg --AssumeDFTDone IP1_.sdf NMR_folder
+/home/ah809/pydp4/PyDP4.py -s chloroform -w gmons -OutputFolder /scratch/ah809/Updated_Integrals/auto/Opt/2g -S m/scratch/ah809/Updated_Integrals/Stats/pairwiseOpt2gg --AssumeDFTDone IP1_.sdf NMR_folder
+/home/ah809/pydp4/PyDP4.py -s chloroform -w gmons -OutputFolder /scratch/ah809/Updated_Integrals/auto/Opt/3g -S m/scratch/ah809/Updated_Integrals/Stats/pairwiseOpt3gg --AssumeDFTDone IP1_.sdf NMR_folder
+/home/ah809/pydp4/PyDP4.py -s chloroform -w gnoms -OutputFolder /scratch/ah809/Updated_Integrals/auto/Opt/crossvalidation -S m/scratch/ah809/Updated_Integrals/Stats/pairwiseOptcrossval/IPmodelg --AssumeDFTDone IP1_.sdf NMR_folder
+/home/ah809/pydp4/PyDP4.py -s chloroform -w gmons -OutputFolder /scratch/ah809/Updated_Integrals/pairwise/Opt/external -S /none --AssumeDFTDone IP1_.sdf IP1NMR
+/home/ah809/pydp4/PyDP4.py -s chloroform -w gmns -OutputFolder /scratch/ah809/Results_Separate_Stats/pairwise/Opt/external -S /noneg --AssumeDFTDone IP1_.sdf IP1NMR
+/home/ah809/pydp4/PyDP4.py -s chloroform -w gmons -OutputFolder /scratch/ah809/Results_Separate_Stats/auto/Opt/external -S /none --AssumeDFTDone IP1_.sdf NMR_folder
+/home/ah809/pydp4/PyDP4.py -s chloroform -w gmons -OutputFolder /scratch/ah809/Updated_Integrals/auto/Opt/external -S /none --AssumeDFTDone IP1_.sdf NMR_folder
+/home/ah809/pydp4/PyDP4.py -s chloroform -w gmons -OutputFolder /scratch/ah809/Updated_Integrals/pairwise/Opt/1g -S m/scratch/ah809/Updated_Integrals/Stats/pairwiseOpt1gg --AssumeDFTDone IP1_.sdf IP1NMR
+/home/ah809/pydp4/PyDP4.py -s chloroform -w gmons -OutputFolder /scratch/ah809/Updated_Integrals/pairwise/Opt/2g -S m/scratch/ah809/Updated_Integrals/Stats/pairwiseOpt2gg --AssumeDFTDone IP1_.sdf IP1NMR
+/home/ah809/pydp4/PyDP4.py -s chloroform -w gmons -OutputFolder /scratch/ah809/Updated_Integrals/pairwise/Opt/3g -S m/scratch/ah809/Updated_Integrals/Stats/pairwiseOpt3gg --AssumeDFTDone IP1_.sdf IP1NMR
+/home/ah809/pydp4/PyDP4.py -s chloroform -w gnoms -OutputFolder /scratch/ah809/Updated_Integrals/pairwise/Opt/crossvalidation -S m/scratch/ah809/Updated_Integrals/Stats/pairwiseOptcrossval/IPmodelg --AssumeDFTDone IP1_.sdf IP1NMR
+/home/ah809/pydp4/PyDP4.py -s chloroform -w gmons -OutputFolder /scratch/ah809/Updated_Integrals/auto/Opt/1g -S m/scratch/ah809/Updated_Integrals/Stats/pairwiseOpt1gg --AssumeDFTDone IP1_.sdf NMR_folder
+/home/ah809/pydp4/PyDP4.py -s chloroform -w gmons -OutputFolder /scratch/ah809/Updated_Integrals/auto/Opt/2g -S m/scratch/ah809/Updated_Integrals/Stats/pairwiseOpt2gg --AssumeDFTDone IP1_.sdf NMR_folder
+/home/ah809/pydp4/PyDP4.py -s chloroform -w gmons -OutputFolder /scratch/ah809/Updated_Integrals/auto/Opt/3g -S m/scratch/ah809/Updated_Integrals/Stats/pairwiseOpt3gg --AssumeDFTDone IP1_.sdf NMR_folder
+/home/ah809/pydp4/PyDP4.py -s chloroform -w gnoms -OutputFolder /scratch/ah809/Updated_Integrals/auto/Opt/crossvalidation -S m/scratch/ah809/Updated_Integrals/Stats/pairwiseOptcrossval/IPmodelg --AssumeDFTDone IP1_.sdf NMR_folder
+/home/ah809/pydp4/PyDP4.py -s chloroform -w gmns -OutputFolder /scratch/ah809/Results_Separate_Stats/pairwise/Opt/external -S /noneg --AssumeDFTDone IP1_.sdf IP1NMR
+/home/ah809/pydp4/PyDP4.py -s chloroform -w gmons -OutputFolder /scratch/ah809/Updated_Phasing/auto/Opt/1g -S m/scratch/ah809/Updated_Phasing/Stats/pairwiseOpt1gg --AssumeDFTDone IP1_.sdf NMR_folder
+/home/ah809/pydp4/PyDP4.py -s chloroform -w gmons -OutputFolder /scratch/ah809/Updated_Phasing/auto/Opt/2g -S m/scratch/ah809/Updated_Phasing/Stats/pairwiseOpt2gg --AssumeDFTDone IP1_.sdf NMR_folder
+/home/ah809/pydp4/PyDP4.py -s chloroform -w gmons -OutputFolder /scratch/ah809/Updated_Phasing/auto/Opt/3g -S m/scratch/ah809/Updated_Phasing/Stats/pairwiseOpt3gg --AssumeDFTDone IP1_.sdf NMR_folder
+/home/ah809/pydp4/PyDP4.py -s chloroform -w gnoms -OutputFolder /scratch/ah809/Updated_Phasing/auto/Opt/crossvalidation -S m/scratch/ah809/Updated_Phasing/Stats/pairwiseOptcrossval/IPmodelg --AssumeDFTDone IP1_.sdf NMR_folder
+/home/ah809/pydp4/PyDP4.py -s chloroform -w gmons -OutputFolder /scratch/ah809/Updated_Phasing/auto/Opt/external -S /none --AssumeDFTDone IP1_.sdf NMR_folder
+/home/ah809/pydp4/PyDP4.py -s chloroform -w gmons -OutputFolder /scratch/ah809/Updated_Phasing/auto/Opt/external -S /none --AssumeDFTDone IP1_.sdf NMR_folder
+/home/ah809/pydp4/PyDP4.py -s chloroform -w gmons -OutputFolder /scratch/ah809/Updated_Cassignment/pairwise/Opt/external -S /none --AssumeDFTDone IP1_.sdf IP1NMR
+/home/ah809/pydp4/PyDP4.py -s chloroform -w gmons -OutputFolder /scratch/ah809/Updated_Cassignment/auto/Opt/external -S /none --AssumeDFTDone IP1_.sdf NMR_folder
+/home/ah809/pydp4/PyDP4.py -s chloroform -w gmons -OutputFolder /scratch/ah809/Updated_Cassignment/pairwise/Opt/1g -S m/scratch/ah809/Updated_Cassignment/Stats/pairwiseOpt1gg --AssumeDFTDone IP1_.sdf IP1NMR
+/home/ah809/pydp4/PyDP4.py -s chloroform -w gmons -OutputFolder /scratch/ah809/Updated_Cassignment/pairwise/Opt/2g -S m/scratch/ah809/Updated_Cassignment/Stats/pairwiseOpt2gg --AssumeDFTDone IP1_.sdf IP1NMR
+/home/ah809/pydp4/PyDP4.py -s chloroform -w gmons -OutputFolder /scratch/ah809/Updated_Cassignment/pairwise/Opt/3g -S m/scratch/ah809/Updated_Cassignment/Stats/pairwiseOpt3gg --AssumeDFTDone IP1_.sdf IP1NMR
+/home/ah809/pydp4/PyDP4.py -s chloroform -w gnoms -OutputFolder /scratch/ah809/Updated_Cassignment/pairwise/Opt/crossvalidation -S m/scratch/ah809/Updated_Cassignment/Stats/pairwiseOptcrossval/IPmodelg --AssumeDFTDone IP1_.sdf IP1NMR
+/home/ah809/pydp4/PyDP4.py -s chloroform -w gmons -OutputFolder /scratch/ah809/Updated_Cassignment/auto/Opt/1g -S m/scratch/ah809/Updated_Cassignment/Stats/pairwiseOpt1gg --AssumeDFTDone IP1_.sdf NMR_folder
+/home/ah809/pydp4/PyDP4.py -s chloroform -w gmons -OutputFolder /scratch/ah809/Updated_Cassignment/auto/Opt/2g -S m/scratch/ah809/Updated_Cassignment/Stats/pairwiseOpt2gg --AssumeDFTDone IP1_.sdf NMR_folder
+/home/ah809/pydp4/PyDP4.py -s chloroform -w gmons -OutputFolder /scratch/ah809/Updated_Cassignment/auto/Opt/3g -S m/scratch/ah809/Updated_Cassignment/Stats/pairwiseOpt3gg --AssumeDFTDone IP1_.sdf NMR_folder
+/home/ah809/pydp4/PyDP4.py -s chloroform -w gnoms -OutputFolder /scratch/ah809/Updated_Cassignment/auto/Opt/crossvalidation -S m/scratch/ah809/Updated_Cassignment/Stats/pairwiseOptcrossval/IPmodelg --AssumeDFTDone IP1_.sdf NMR_folder
+/home/ah809/pydp4/PyDP4.py -s chloroform -w gmons -OutputFolder /scratch/ah809/Updated_Cassignment/pairwise/Opt/external -S /none --AssumeDFTDone IP1_.sdf IP1NMR
+/home/ah809/pydp4/PyDP4.py -s chloroform -w gmons -OutputFolder /scratch/ah809/Updated_Cassignment/auto/Opt/external -S /none --AssumeDFTDone IP1_.sdf NMR_folder
+/home/ah809/pydp4/PyDP4.py -s chloroform -w gmons -OutputFolder /scratch/ah809/Updated_Cassignment/pairwise/Opt/1g -S m/scratch/ah809/Updated_Cassignment/Stats/pairwiseOpt1gg --AssumeDFTDone IP1_.sdf IP1NMR
+/home/ah809/pydp4/PyDP4.py -s chloroform -w gmons -OutputFolder /scratch/ah809/Updated_Cassignment/pairwise/Opt/2g -S m/scratch/ah809/Updated_Cassignment/Stats/pairwiseOpt2gg --AssumeDFTDone IP1_.sdf IP1NMR
+/home/ah809/pydp4/PyDP4.py -s chloroform -w gmons -OutputFolder /scratch/ah809/Updated_Cassignment/pairwise/Opt/3g -S m/scratch/ah809/Updated_Cassignment/Stats/pairwiseOpt3gg --AssumeDFTDone IP1_.sdf IP1NMR
+/home/ah809/pydp4/PyDP4.py -s chloroform -w gnoms -OutputFolder /scratch/ah809/Updated_Cassignment/pairwise/Opt/crossvalidation -S m/scratch/ah809/Updated_Cassignment/Stats/pairwiseOptcrossval/IPmodelg --AssumeDFTDone IP1_.sdf IP1NMR
+/home/ah809/pydp4/PyDP4.py -s chloroform -w gmons -OutputFolder /scratch/ah809/Updated_Cassignment/auto/Opt/1g -S m/scratch/ah809/Updated_Cassignment/Stats/pairwiseOpt1gg --AssumeDFTDone IP1_.sdf NMR_folder
+/home/ah809/pydp4/PyDP4.py -s chloroform -w gmons -OutputFolder /scratch/ah809/Updated_Cassignment/auto/Opt/2g -S m/scratch/ah809/Updated_Cassignment/Stats/pairwiseOpt2gg --AssumeDFTDone IP1_.sdf NMR_folder
+/home/ah809/pydp4/PyDP4.py -s chloroform -w gmons -OutputFolder /scratch/ah809/Updated_Cassignment/auto/Opt/3g -S m/scratch/ah809/Updated_Cassignment/Stats/pairwiseOpt3gg --AssumeDFTDone IP1_.sdf NMR_folder
+/home/ah809/pydp4/PyDP4.py -s chloroform -w gnoms -OutputFolder /scratch/ah809/Updated_Cassignment/auto/Opt/crossvalidation -S m/scratch/ah809/Updated_Cassignment/Stats/pairwiseOptcrossval/IPmodelg --AssumeDFTDone IP1_.sdf NMR_folder
+/home/ah809/pydp4/PyDP4.py -s chloroform -w gmons -OutputFolder /scratch/ah809/Updated_Cassignment/pairwise/Opt/external -S /none --AssumeDFTDone IP1_.sdf IP1NMR
+/home/ah809/pydp4/PyDP4.py -s chloroform -w gmons -OutputFolder /scratch/ah809/Updated_Cassignment/auto/Opt/external -S /none --AssumeDFTDone IP1_.sdf NMR_folder
+/home/ah809/pydp4/PyDP4.py -s chloroform -w gmons -OutputFolder /scratch/ah809/Updated_Cassignment/pairwise/Opt/1g -S m/scratch/ah809/Updated_Cassignment/Stats/pairwiseOpt1gg --AssumeDFTDone IP1_.sdf IP1NMR
+/home/ah809/pydp4/PyDP4.py -s chloroform -w gmons -OutputFolder /scratch/ah809/Updated_Cassignment/pairwise/Opt/2g -S m/scratch/ah809/Updated_Cassignment/Stats/pairwiseOpt2gg --AssumeDFTDone IP1_.sdf IP1NMR
+/home/ah809/pydp4/PyDP4.py -s chloroform -w gmons -OutputFolder /scratch/ah809/Updated_Cassignment/pairwise/Opt/3g -S m/scratch/ah809/Updated_Cassignment/Stats/pairwiseOpt3gg --AssumeDFTDone IP1_.sdf IP1NMR
+/home/ah809/pydp4/PyDP4.py -s chloroform -w gnoms -OutputFolder /scratch/ah809/Updated_Cassignment/pairwise/Opt/crossvalidation -S m/scratch/ah809/Updated_Cassignment/Stats/pairwiseOptcrossval/IPmodelg --AssumeDFTDone IP1_.sdf IP1NMR
+/home/ah809/pydp4/PyDP4.py -s chloroform -w gmons -OutputFolder /scratch/ah809/Updated_Cassignment/auto/Opt/1g -S m/scratch/ah809/Updated_Cassignment/Stats/pairwiseOpt1gg --AssumeDFTDone IP1_.sdf NMR_folder
+/home/ah809/pydp4/PyDP4.py -s chloroform -w gmons -OutputFolder /scratch/ah809/Updated_Cassignment/auto/Opt/2g -S m/scratch/ah809/Updated_Cassignment/Stats/pairwiseOpt2gg --AssumeDFTDone IP1_.sdf NMR_folder
+/home/ah809/pydp4/PyDP4.py -s chloroform -w gmons -OutputFolder /scratch/ah809/Updated_Cassignment/auto/Opt/3g -S m/scratch/ah809/Updated_Cassignment/Stats/pairwiseOpt3gg --AssumeDFTDone IP1_.sdf NMR_folder
+/home/ah809/pydp4/PyDP4.py -s chloroform -w gnoms -OutputFolder /scratch/ah809/Updated_Cassignment/auto/Opt/crossvalidation -S m/scratch/ah809/Updated_Cassignment/Stats/pairwiseOptcrossval/IPmodelg --AssumeDFTDone IP1_.sdf NMR_folder
+/home/ah809/pydp4/PyDP4.py -s chloroform -w gmons -OutputFolder /scratch/ah809/Updated_Cassignment/auto/Opt/external -S /none --AssumeDFTDone IP1_.sdf NMR_folder
+/home/ah809/pydp4/PyDP4.py -s chloroform -w gmons -OutputFolder /scratch/ah809/Updated_Cassignment/auto/Opt/1g -S m/scratch/ah809/Updated_Cassignment/Stats/pairwiseOpt1gg --AssumeDFTDone IP1_.sdf NMR_folder
+/home/ah809/pydp4/PyDP4.py -s chloroform -w gmons -OutputFolder /scratch/ah809/Updated_Cassignment/auto/Opt/2g -S m/scratch/ah809/Updated_Cassignment/Stats/pairwiseOpt2gg --AssumeDFTDone IP1_.sdf NMR_folder
+/home/ah809/pydp4/PyDP4.py -s chloroform -w gmons -OutputFolder /scratch/ah809/Updated_Cassignment/auto/Opt/3g -S m/scratch/ah809/Updated_Cassignment/Stats/pairwiseOpt3gg --AssumeDFTDone IP1_.sdf NMR_folder
+/home/ah809/pydp4/PyDP4.py -s chloroform -w gnoms -OutputFolder /scratch/ah809/Updated_Cassignment/auto/Opt/crossvalidation -S m/scratch/ah809/Updated_Cassignment/Stats/pairwiseOptcrossval/IPmodelg --AssumeDFTDone IP1_.sdf NMR_folder
+/home/ah809/pydp4/PyDP4.py -s chloroform -w gmons -OutputFolder /scratch/ah809/no_OD3_NL3A/pairwise/Opt/external -S /none --AssumeDFTDone IP1_.sdf IP1NMR
+/home/ah809/pydp4/PyDP4.py -s chloroform -w gmons -OutputFolder /scratch/ah809/no_OD3_NL3A/auto/Opt/external -S /none --AssumeDFTDone IP1_.sdf NMR_folder
+/home/ah809/pydp4/PyDP4.py -s chloroform -w gmons -OutputFolder /scratch/ah809/no_OD3_NL3A/pairwise/Opt/1g -S m/scratch/ah809/no_OD3_NL3A/Stats/pairwiseOpt1gg --AssumeDFTDone IP1_.sdf IP1NMR
+/home/ah809/pydp4/PyDP4.py -s chloroform -w gmons -OutputFolder /scratch/ah809/no_OD3_NL3A/pairwise/Opt/2g -S m/scratch/ah809/no_OD3_NL3A/Stats/pairwiseOpt2gg --AssumeDFTDone IP1_.sdf IP1NMR
+/home/ah809/pydp4/PyDP4.py -s chloroform -w gmons -OutputFolder /scratch/ah809/no_OD3_NL3A/pairwise/Opt/3g -S m/scratch/ah809/no_OD3_NL3A/Stats/pairwiseOpt3gg --AssumeDFTDone IP1_.sdf IP1NMR
+/home/ah809/pydp4/PyDP4.py -s chloroform -w gnoms -OutputFolder /scratch/ah809/no_OD3_NL3A/pairwise/Opt/crossvalidation -S m/scratch/ah809/no_OD3_NL3A/Stats/pairwiseOptcrossval/IPmodelg --AssumeDFTDone IP1_.sdf IP1NMR
+/home/ah809/pydp4/PyDP4.py -s chloroform -w gmons -OutputFolder /scratch/ah809/no_OD3_NL3A/auto/Opt/1g -S m/scratch/ah809/no_OD3_NL3A/Stats/pairwiseOpt1gg --AssumeDFTDone IP1_.sdf NMR_folder
+/home/ah809/pydp4/PyDP4.py -s chloroform -w gmons -OutputFolder /scratch/ah809/no_OD3_NL3A/auto/Opt/2g -S m/scratch/ah809/no_OD3_NL3A/Stats/pairwiseOpt2gg --AssumeDFTDone IP1_.sdf NMR_folder
+/home/ah809/pydp4/PyDP4.py -s chloroform -w gmons -OutputFolder /scratch/ah809/no_OD3_NL3A/auto/Opt/3g -S m/scratch/ah809/no_OD3_NL3A/Stats/pairwiseOpt3gg --AssumeDFTDone IP1_.sdf NMR_folder
+/home/ah809/pydp4/PyDP4.py -s chloroform -w gnoms -OutputFolder /scratch/ah809/no_OD3_NL3A/auto/Opt/crossvalidation -S m/scratch/ah809/no_OD3_NL3A/Stats/pairwiseOptcrossval/IPmodelg --AssumeDFTDone IP1_.sdf NMR_folder
+/home/ah809/pydp4/PyDP4.py -s chloroform -w gmons -OutputFolder /scratch/ah809/Quinine_etc/pairwise/Opt/external -S /none --AssumeDFTDone IP1_.sdf IP1NMR
+/home/ah809/pydp4/PyDP4.py -s chloroform -w gmons -OutputFolder /scratch/ah809/Quinine_etc/auto/Opt/external -S /none --AssumeDFTDone IP1_.sdf NMR_folder
+/home/ah809/pydp4/PyDP4.py -s chloroform -w gmons -OutputFolder /scratch/ah809/Quinine_etc/pairwise/Opt/1g -S m/scratch/ah809/Quinine_etc/Stats/pairwiseOpt1gg --AssumeDFTDone IP1_.sdf IP1NMR
+/home/ah809/pydp4/PyDP4.py -s chloroform -w gmons -OutputFolder /scratch/ah809/Quinine_etc/pairwise/Opt/2g -S m/scratch/ah809/Quinine_etc/Stats/pairwiseOpt2gg --AssumeDFTDone IP1_.sdf IP1NMR
+/home/ah809/pydp4/PyDP4.py -s chloroform -w gmons -OutputFolder /scratch/ah809/Quinine_etc/pairwise/Opt/3g -S m/scratch/ah809/Quinine_etc/Stats/pairwiseOpt3gg --AssumeDFTDone IP1_.sdf IP1NMR
+/home/ah809/pydp4/PyDP4.py -s chloroform -w gnoms -OutputFolder /scratch/ah809/Quinine_etc/pairwise/Opt/crossvalidation -S m/scratch/ah809/Quinine_etc/Stats/pairwiseOptcrossval/IPmodelg --AssumeDFTDone IP1_.sdf IP1NMR
+/home/ah809/pydp4/PyDP4.py -s chloroform -w gmons -OutputFolder /scratch/ah809/Quinine_etc/auto/Opt/1g -S m/scratch/ah809/Quinine_etc/Stats/pairwiseOpt1gg --AssumeDFTDone IP1_.sdf NMR_folder
+/home/ah809/pydp4/PyDP4.py -s chloroform -w gmons -OutputFolder /scratch/ah809/Quinine_etc/auto/Opt/2g -S m/scratch/ah809/Quinine_etc/Stats/pairwiseOpt2gg --AssumeDFTDone IP1_.sdf NMR_folder
+/home/ah809/pydp4/PyDP4.py -s chloroform -w gmons -OutputFolder /scratch/ah809/Quinine_etc/auto/Opt/3g -S m/scratch/ah809/Quinine_etc/Stats/pairwiseOpt3gg --AssumeDFTDone IP1_.sdf NMR_folder
+/home/ah809/pydp4/PyDP4.py -s chloroform -w gnoms -OutputFolder /scratch/ah809/Quinine_etc/auto/Opt/crossvalidation -S m/scratch/ah809/Quinine_etc/Stats/pairwiseOptcrossval/IPmodelg --AssumeDFTDone IP1_.sdf NMR_folder
+/home/ah809/pydp4/PyDP4.py -s chloroform -w gmons -OutputFolder /scratch/ah809/Minor_Changes/pairwise/Opt/external -S /none --AssumeDFTDone IP1_.sdf IP1NMR
+/home/ah809/pydp4/PyDP4.py -s chloroform -w gmons -OutputFolder /scratch/ah809/Minor_Changes/auto/Opt/external -S /none --AssumeDFTDone IP1_.sdf NMR_folder
+/home/ah809/pydp4/PyDP4.py -s chloroform -w gmons -OutputFolder /scratch/ah809/Minor_Changes/pairwise/Opt/1g -S m/scratch/ah809/Minor_Changes/Stats/pairwiseOpt1gg --AssumeDFTDone IP1_.sdf IP1NMR
+/home/ah809/pydp4/PyDP4.py -s chloroform -w gmons -OutputFolder /scratch/ah809/Minor_Changes/pairwise/Opt/2g -S m/scratch/ah809/Minor_Changes/Stats/pairwiseOpt2gg --AssumeDFTDone IP1_.sdf IP1NMR
+/home/ah809/pydp4/PyDP4.py -s chloroform -w gmons -OutputFolder /scratch/ah809/Minor_Changes/pairwise/Opt/3g -S m/scratch/ah809/Minor_Changes/Stats/pairwiseOpt3gg --AssumeDFTDone IP1_.sdf IP1NMR
+/home/ah809/pydp4/PyDP4.py -s chloroform -w gnoms -OutputFolder /scratch/ah809/Minor_Changes/pairwise/Opt/crossvalidation -S m/scratch/ah809/Minor_Changes/Stats/pairwiseOptcrossval/IPmodelg --AssumeDFTDone IP1_.sdf IP1NMR
+/home/ah809/pydp4/PyDP4.py -s chloroform -w gmons -OutputFolder /scratch/ah809/Minor_Changes/auto/Opt/1g -S m/scratch/ah809/Minor_Changes/Stats/pairwiseOpt1gg --AssumeDFTDone IP1_.sdf NMR_folder
+/home/ah809/pydp4/PyDP4.py -s chloroform -w gmons -OutputFolder /scratch/ah809/Minor_Changes/auto/Opt/2g -S m/scratch/ah809/Minor_Changes/Stats/pairwiseOpt2gg --AssumeDFTDone IP1_.sdf NMR_folder
+/home/ah809/pydp4/PyDP4.py -s chloroform -w gmons -OutputFolder /scratch/ah809/Minor_Changes/auto/Opt/3g -S m/scratch/ah809/Minor_Changes/Stats/pairwiseOpt3gg --AssumeDFTDone IP1_.sdf NMR_folder
+/home/ah809/pydp4/PyDP4.py -s chloroform -w gnoms -OutputFolder /scratch/ah809/Minor_Changes/auto/Opt/crossvalidation -S m/scratch/ah809/Minor_Changes/Stats/pairwiseOptcrossval/IPmodelg --AssumeDFTDone IP1_.sdf NMR_folder
+/home/ah809/pydp4/PyDP4.py -s chloroform -w gmons -OutputFolder /scratch/ah809/Updated_Artemisinin/pairwise/Opt/external -S /none --AssumeDFTDone IP1_.sdf IP1NMR
+/home/ah809/pydp4/PyDP4.py -s chloroform -w gmons -OutputFolder /scratch/ah809/Updated_Artemisinin/auto/Opt/external -S /none --AssumeDFTDone IP1_.sdf NMR_folder
+/home/ah809/pydp4/PyDP4.py -s chloroform -w gmons -OutputFolder /scratch/ah809/Updated_Artemisinin/pairwise/Opt/1g -S m/scratch/ah809/Updated_Artemisinin/Stats/pairwiseOpt1gg --AssumeDFTDone IP1_.sdf IP1NMR
+/home/ah809/pydp4/PyDP4.py -s chloroform -w gmons -OutputFolder /scratch/ah809/Updated_Artemisinin/pairwise/Opt/2g -S m/scratch/ah809/Updated_Artemisinin/Stats/pairwiseOpt2gg --AssumeDFTDone IP1_.sdf IP1NMR
+/home/ah809/pydp4/PyDP4.py -s chloroform -w gmons -OutputFolder /scratch/ah809/Updated_Artemisinin/pairwise/Opt/3g -S m/scratch/ah809/Updated_Artemisinin/Stats/pairwiseOpt3gg --AssumeDFTDone IP1_.sdf IP1NMR
+/home/ah809/pydp4/PyDP4.py -s chloroform -w gnoms -OutputFolder /scratch/ah809/Updated_Artemisinin/pairwise/Opt/crossvalidation -S m/scratch/ah809/Updated_Artemisinin/Stats/pairwiseOptcrossval/IPmodelg --AssumeDFTDone IP1_.sdf IP1NMR
+/home/ah809/pydp4/PyDP4.py -s chloroform -w gmons -OutputFolder /scratch/ah809/Updated_Artemisinin/auto/Opt/1g -S m/scratch/ah809/Updated_Artemisinin/Stats/pairwiseOpt1gg --AssumeDFTDone IP1_.sdf NMR_folder
+/home/ah809/pydp4/PyDP4.py -s chloroform -w gmons -OutputFolder /scratch/ah809/Updated_Artemisinin/auto/Opt/2g -S m/scratch/ah809/Updated_Artemisinin/Stats/pairwiseOpt2gg --AssumeDFTDone IP1_.sdf NMR_folder
+/home/ah809/pydp4/PyDP4.py -s chloroform -w gmons -OutputFolder /scratch/ah809/Updated_Artemisinin/auto/Opt/3g -S m/scratch/ah809/Updated_Artemisinin/Stats/pairwiseOpt3gg --AssumeDFTDone IP1_.sdf NMR_folder
+/home/ah809/pydp4/PyDP4.py -s chloroform -w gnoms -OutputFolder /scratch/ah809/Updated_Artemisinin/auto/Opt/crossvalidation -S m/scratch/ah809/Updated_Artemisinin/Stats/pairwiseOptcrossval/IPmodelg --AssumeDFTDone IP1_.sdf NMR_folder

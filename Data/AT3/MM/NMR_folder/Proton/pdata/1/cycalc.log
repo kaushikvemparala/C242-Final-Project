@@ -1,0 +1,9 @@
+JY=19.000000, maxcy=1500.000000, mincy=20.000000, MI=0.500000
+region file = C:/Bruker/TopSpin3.2/exp/stan/nmr/lists/scl/1H.CDCl3
+(3) regions read successfully
+Peak file read and filtered: 179 peaks
+156 multiplets detected
+Average peak height = 11.237818, Max height = 200.000000
+Max peak size= 200.100006 (not used)
+Min peak size= 1.123782
+Avy= 11.237818 - JY = 19.000000 - djh calculated CY= 6.646766

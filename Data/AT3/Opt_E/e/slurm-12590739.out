@@ -1,0 +1,18 @@
+Changed directory to /home/ke291/26Jun1158AT3NMR.
+
+JobID: 12590739
+======
+Time: Wed 26 Jun 12:02:57 BST 2019
+Running on master node: cpu-e-827
+Current directory: /home/ke291/26Jun1158AT3NMR
+
+Nodes allocated:
+================
+cpu-e-827
+
+numtasks=32, numnodes=1, mpi_tasks_per_node=32 (OMP_NUM_THREADS=1)
+
+Executing commands:
+==================
+
+

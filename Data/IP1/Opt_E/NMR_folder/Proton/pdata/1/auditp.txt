@@ -1,0 +1,23 @@
+##TITLE= Audit trail, TOPSPIN		Version 3.2
+##JCAMPDX= 5.01
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= Nadia Petersen
+$$ F:\data\jmg\nmr/Alex-IP-NG/10/pdata/1/auditp.txt
+##AUDIT TRAIL=  $$ (NUMBER, WHEN, WHO, WHERE, PROCESS, VERSION, WHAT)
+(   1,<2018-02-28 20:27:53.178 +0000>,<Nadia Petersen>,<florence>,<go>,<TOPSPIN 3.2>,
+      <created by zg
+	started at 2018-02-28 20:26:19.671 +0000,
+	POWCHK enabled, PULCHK disabled,
+       configuration hash MD5:
+       9A 06 AC 2A 2D 37 40 33 20 7A B8 8D 09 66 7F C9
+       data hash MD5: 64K
+       46 F9 E3 BA A3 A0 25 86 B7 7C 88 8A 8B 87 B8 EE>)
+(   2,<2018-02-28 20:27:54.504 +0000>,<Nadia Petersen>,<florence>,<proc1d>,<TOPSPIN 3.2>,
+      <Start of raw data processing
+       efp LB = 0.3 FT_mod = 6 PKNL = 1 PHC0 = -69.19672 PHC1 = -16.37768 SI = 64K 
+       data hash MD5: 64K
+       D6 90 9F AA 02 8D C3 C4 3E 4D 04 EF 54 22 EA 5B>)
+##END=
+
+$$ hash MD5
+$$ C4 15 DD 28 5F 05 67 AC 04 E0 B2 AC 9F D5 60 8E

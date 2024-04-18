@@ -1,0 +1,18 @@
+Changed directory to /home/ke291/06Feb0927IP1.
+
+JobID: 9303488
+======
+Time: Wed  6 Feb 10:10:34 GMT 2019
+Running on master node: cpu-e-609
+Current directory: /home/ke291/06Feb0927IP1
+
+Nodes allocated:
+================
+cpu-e-609
+
+numtasks=32, numnodes=1, mpi_tasks_per_node=32 (OMP_NUM_THREADS=1)
+
+Executing commands:
+==================
+
+

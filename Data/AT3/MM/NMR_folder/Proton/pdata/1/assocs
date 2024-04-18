@@ -1,0 +1,11 @@
+##TITLE= Parameter file, TOPSPIN		Version 3.2
+##JCAMPDX= 5.0
+##DATATYPE= Parameter Values
+##NPOINTS= 2	$$ modification sequence number
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= Manuel
+$$ 2016-01-19 12:39:21.434 +0000  Manuel@Manuel-PC
+$$ C:/Users/Manuel/Desktop/chemistry/Cambridge/NMR/MJG_MN480-CR-Z85754/10/pdata/1/assocs
+$$ process D:\Bruker\TopSpin3.2\prog\mod\dataserver.exe
+##$MULTDISP= <C:/Users/Manuel/Desktop/chemistry/Cambridge/NMR/MJG_MN477-CR-V288042/10/pdata/1>
+##END=
